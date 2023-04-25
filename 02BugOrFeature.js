@@ -15,10 +15,7 @@ function main() {
 main()
 
 
-
-
-
-//Back Up Code 
+// //Back Up Code 
 
 // function queryDatabase(callback)  {
 //     setTimeout(function() {
