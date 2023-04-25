@@ -1,6 +1,5 @@
 console.log('Node.js is running...')
 
-
 //Is it a feature ot bug
 function queryDatabase()  {
     setTimeout(function() {
